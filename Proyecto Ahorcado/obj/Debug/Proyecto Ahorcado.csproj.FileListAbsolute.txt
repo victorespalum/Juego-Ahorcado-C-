@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\bin\Debug\Proyecto Ahorcado.exe.config
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\bin\Debug\Proyecto Ahorcado.exe
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\bin\Debug\Proyecto Ahorcado.pdb
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\obj\Debug\Proyecto Ahorcado.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\obj\Debug\Proyecto_Ahorcado.Form1.resources
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\obj\Debug\Proyecto_Ahorcado.Properties.Resources.resources
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\obj\Debug\Proyecto Ahorcado.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\obj\Debug\Proyecto Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\obj\Debug\Proyecto Ahorcado.exe
+C:\Users\PC\Desktop\DI proyecto final\Proyecto Ahorcado\obj\Debug\Proyecto Ahorcado.pdb
