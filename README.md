@@ -1,4 +1,4 @@
-# Juego-Ahorcado-C-
+# Juego-Ahorcado-C#-
 
 :space_invader: Juego del ahorcado desarrollado en C#, en el IDE Microsoft Visual Studio Community 2019. :trophy:
 
